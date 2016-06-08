@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:33.590267
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:02
 #+TITLE: 黃檗山斷際禪師傳心法要
 #+PROPERTY: CBETA_ID T48n2012A
 #+PROPERTY: ID KR6q0087
@@ -14,7 +14,7 @@
 ¶
 No.2012A¶
 
-斷際心要（序）
+* 斷際心要（序）
 :PROPERTIES:
 :head: 斷際心要
 :END:
